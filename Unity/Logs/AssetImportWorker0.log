@@ -536,3 +536,27 @@ Received Import Request.
 Start importing Assets/Onboarding Assets/Images/187d95e5-meta-vr-headsets.jpg using Guid(a362c0d51973a45a2acc3fd54a4312fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '16efa70d3ae1d051f3255e70eea94bbd') in 0.007973791 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
 
+========================================================================
+Received Import Request.
+  Time since last request: 193.679114 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(14d0e89c2c57d4bd5b5e111249ec8391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(14d0e89c2c57d4bd5b5e111249ec8391) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '874d24ebfa8937615ee9c7f59f425b1d') in 0.003493625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.711397 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/TunnelingVignette
+  artifactKey: Guid(14305397b55fd2148ab7fcbdcbb60a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/TunnelingVignette using Guid(14305397b55fd2148ab7fcbdcbb60a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1c151df4e1e179e360f3bec7308baa71') in 0.000628458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.637472 seconds.
+  path: Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Filters
+  artifactKey: Guid(cbfc8c172e97a1a429faf76ac87aaf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/XR Interaction Toolkit/3.0.7/Starter Assets/Filters using Guid(cbfc8c172e97a1a429faf76ac87aaf06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3717a7d92eec57c400b1e2a5046e9d5c') in 0.000428708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
