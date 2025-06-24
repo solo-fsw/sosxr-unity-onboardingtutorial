@@ -1,0 +1,12 @@
+{
+  "name": "com.sosxr.OnboardingTutorial",
+  "version": "1.0.0",
+  "displayName": "OnboardingSupport",
+  "description": "A modular onboarding tutorial card system to simplify the creation of custom tutorials within Unity.",
+  "unity": "6.0",
+  "author": {
+    "name": "VennilaVilvanathan",
+    "email": "v.vilvanathan@fsw.leidenuniv.nl",
+    "url": "https://www.universiteitleiden.nl/en/social-behavioural-sciences"
+  }
+}
